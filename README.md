@@ -1,4 +1,4 @@
-# kafkajs-node-example
+# Simple examples to use the kafka services
 
 Docker compose to run Kafka cluster locally 
 
